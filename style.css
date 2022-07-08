@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(179, 241, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.starting_header{
+    background-color: rgb(175, 173, 173);
+    color: white;
+}
+
+.starting_header h3{
+    color:white;
+    font-weight:bold;
+}
+
+.starting_header h5{
+    letter-spacing: 2px;
+    font-weight:bold;
+}
+
+.footer{
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+    width: 100%;
+    line-height:2;
+    font-size:medium;
+    text-shadow: 5px 5px 2px;
+}
+
